@@ -1,0 +1,7 @@
+D:\wp_VS\OrganizaListaIComparable\OrganizaListaIComparable\bin\Debug\OrganizaListaIComparable.exe.config
+D:\wp_VS\OrganizaListaIComparable\OrganizaListaIComparable\bin\Debug\OrganizaListaIComparable.exe
+D:\wp_VS\OrganizaListaIComparable\OrganizaListaIComparable\bin\Debug\OrganizaListaIComparable.pdb
+D:\wp_VS\OrganizaListaIComparable\OrganizaListaIComparable\obj\Debug\OrganizaListaIComparable.csproj.AssemblyReference.cache
+D:\wp_VS\OrganizaListaIComparable\OrganizaListaIComparable\obj\Debug\OrganizaListaIComparable.csproj.CoreCompileInputs.cache
+D:\wp_VS\OrganizaListaIComparable\OrganizaListaIComparable\obj\Debug\OrganizaListaIComparable.exe
+D:\wp_VS\OrganizaListaIComparable\OrganizaListaIComparable\obj\Debug\OrganizaListaIComparable.pdb
