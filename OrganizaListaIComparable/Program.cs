@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using OrganizaListaIComparable.Entities;
 
 namespace OrganizaListaIComparable
 {
@@ -15,18 +16,18 @@ namespace OrganizaListaIComparable
                 using (StreamReader sr = File.OpenText(path))
                 {
 
-                    List<String> list = new List<string>();
+                    List<Funcionario> list = new List<Funcionario>();
 
                     while (!sr.EndOfStream)
                     {
-                        list.Add(sr.ReadLine());
+                        list.Add(new Funcionario(sr.ReadLine()));
                     }
 
                     list.Sort();
 
-                    foreach(string str in list)
+                    foreach (Funcionario func in list)
                     {
-                        Console.WriteLine(str);
+                        Console.WriteLine(func);
                     }
                 }
             }
